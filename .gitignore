@@ -30,3 +30,5 @@ storybook-static/
 
 # Tailwind CSS generated files
 *.css.map
+
+*storybook.log
